@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: mindcare_postgres
+    environment:
+      POSTGRES_DB: mindcare_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Bryan141105
+    ports:
+      - "5432:5432"
+    volumes:
+      - mindcare_data:/var/lib/postgresql/data
+
+volumes:
+  mindcare_data:
