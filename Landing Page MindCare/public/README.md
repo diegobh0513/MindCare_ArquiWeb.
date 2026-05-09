@@ -83,3 +83,5 @@ Actualización de documentación de la landing page MindCare.
 Se actualizó la descripción general del proyecto MindCare.
 
 Se agregó una nota sobre la estructura del proyecto.
+
+Se revisó la coherencia de la documentación.
