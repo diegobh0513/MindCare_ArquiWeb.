@@ -93,3 +93,5 @@ Se verificó la ortografía y gramática.
 Corrección de formato y encabezados en README.
 
 Actualizacion de nueva imagen.
+
+Agregar nuevo diseño.
